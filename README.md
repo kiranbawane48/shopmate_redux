@@ -1,4 +1,19 @@
-#Deployment link: https://kiranbawane-shopmate-redux.netlify.app/
+# Shopmate-using-React
+
+**#Deployment link:** https://kiranbawane-shopmate-redux.netlify.app/
+
+**Description:**
+• Developed a dynamic e-commerce UI using ReactJS, featuring essential functionalities such as adding and removing items from the cart, displaying cart items with prices, and ensuring a smooth and user-friendly interface
+
+**Technologies:**  
+ReactJs | HTML | CSS | TailwindCSS
+
+**Demo:**
+![image](https://github.com/kiranbawane48/shopmate_redux/assets/100428197/c76e311c-cae6-4f82-a697-ead9cb986957)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
