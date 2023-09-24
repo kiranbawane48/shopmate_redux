@@ -9,11 +9,16 @@
 ReactJs | HTML | CSS | TailwindCSS
 
 **Demo:**
-![image](https://github.com/kiranbawane48/shopmate_redux/assets/100428197/c76e311c-cae6-4f82-a697-ead9cb986957)
+<div align="center">
+  <img src="https://github.com/kiranbawane48/shopmate_redux/assets/100428197/597620cc-10e1-489f-9d20-8a7638fd49e0" alt="Image" width="400">
+</div>
 
 
 
 
+
+
+     
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
